@@ -13,5 +13,7 @@ Algunos de mis repositorios:
 
 [Servidor MCP para DataStage](https://github.com/hreine/Data-Stage-MCP-Server-Utils)
 
-[Pruebas de concepto en apache iceberg](https://github.com/hreine/apache-iceberg)
+[Pruebas de concepto en Apache Iceberg](https://github.com/hreine/apache-iceberg)
+
+[Prueba de concepto validacion de archivos planos](https://github.com/hreine/apache-iceberg/blob/master/notebooks/POC-validacion-scv/validacion-estructura-cv.ipynb)
 
