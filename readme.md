@@ -10,7 +10,7 @@ No dudes en explorar mis repositorios o enviarme un mensaje, también puedes agr
 Algunos de mis repositorios:
 
 Algebra Lineal con python:
-https://github.com/hreine/Algebra-Lineal-Con-Python
+[https://github.com/hreine/Algebra-Lineal-Con-Python](https://github.com/hreine/apache-iceberg/tree/master/notebooks/Algebra-Lineal-Con-Python)
 
 Servidor MCP para DataStage:
 https://github.com/hreine/Data-Stage-MCP-Server-Utils
