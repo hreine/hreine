@@ -1,9 +1,41 @@
-Hola 👋, soy Rafael Reines. ¡Bienvenidos a mi GitHub!
+<div align="center">
 
-Soy un **Ingeniero de Datos / Ingeniero de software / Ingeniero de proyectos **
+# Hola 👋, soy Rafael Reines
 
-#### Sobre Mis Repositorios:
-Comparto codigo util python y otros materiales interesantes. 
+### ¡Bienvenid@ a mi espacio en GitHub!
 
-No dudes en explorar mis repositorios o enviarme un mensaje, también puedes agregarme en LinkedIn [(Rafael Reines)](www.linkedin.com/in/hernandoreines/). Siempre estoy abierto a conectar con colegas profesionales y entusiastas.
+</div>
 
+Soy un **Ingeniero de Datos, Software y Proyectos** apasionado por la tecnología y el aprendizaje continuo. Me encanta transformar datos en soluciones y compartir conocimiento con la comunidad.
+
+---
+
+### 🔧 Tecnologías y Herramientas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,git,docker,aws,gcp,azure,postgres,mysql,sqlite,mongodb,bash,linux,vscode&perline=8" />
+  </a>
+</p>
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hreine&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de GitHub de HREIN"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hreine&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+---
+
+### 📫 ¿Conectamos?
+
+<p align="center">
+¡Siempre estoy abierto a conectar con otros profesionales y entusiastas de la tecnología!
+<br/><br/>
+<a href="https://www.linkedin.com/in/hernandoreines/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
