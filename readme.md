@@ -16,7 +16,7 @@ Soy un **Ingeniero de Datos, Software y Proyectos** apasionado por la tecnologí
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,git,docker,aws,gcp,azure,postgres,mysql,sqlite,mongodb,bash,linux,vscode&perline=8" />
   </a>
-p>
+</p>
 
 ---
 
@@ -26,7 +26,7 @@ p>
   <img src="https://github-readme-stats.vercel.app/api?username=hreine&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de GitHub de HREIN"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hreine&layout=compact&theme=radical" alt="Top Langs"/>
-p>
+</p>
 
 ---
 
@@ -38,4 +38,4 @@ p>
 <a href="https://www.linkedin.com/in/hernandoreines/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-p>
+</p>
