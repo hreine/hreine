@@ -14,7 +14,7 @@ Soy un **Ingeniero de Datos, Software y Proyectos** apasionado por la tecnologí
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,SpringBoot,django,fastapi,flask,git,docker,aws,gcp,azure,postgres,mysql,sqlite,mongodb,bash,linux,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,dart,django,fastapi,flask,git,docker,aws,gcp,azure,postgres,mysql,sqlite,mongodb,bash,linux,vscode&perline=8" />
   </a>
 </p>
 
